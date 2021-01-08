@@ -7,3 +7,4 @@ Then the random password will be generated taking into consideration the employe
 Deployed image
 <img src=".\Assets\deployed app.PNG">
 
+Link to deployed application: https://lismey23.github.io/JS_PasswordGenerator/
